@@ -1,0 +1,15 @@
+@media (max-width: 580px) {
+  .header-time {
+    display: none;
+  }
+}
+
+/* ??? */
+/*1.  max-width khi thu nhỏ không khớp với templates */
+
+/*2. click vào nav bar thì không di chuyển / di chuyển chậm */
+
+/*3. khoảng màu đen của heading-title bị nhỏ hơn so với templates  */
+
+
+/*4. đã set khoảng margin của box trong about nhưng ko đc apply => chỉnh lại display .about-box: table thì ok??? */
