@@ -25,12 +25,13 @@
 .navbar-link {
   padding: 8px 16px;
 }
+
 .navbar-link:hover {
   background-color: #ccc;
   color: #000;
 }
 
-/* header */ 
+/* header */
 
 .header-container {
   color: #fff;
@@ -49,8 +50,7 @@
 
 .header-title {
   font-size: 90px;
-  /* font-weight: 400; */
-  margin-top: 0.18px  ;
+  margin-top: 0.18px;
   padding: 20px 0;
   position: absolute;
   top: 50%;
@@ -87,12 +87,10 @@
   background-color: #f1f1f1;
 }
 
-.about-box p{
-  /* display: inline-block; */
+.about-box p {
   padding-bottom: 18px;
   margin: 0;
 }
-
 
 .about-img {
   display: inline;
@@ -169,6 +167,7 @@ footer p {
   transition: all 0.15s;
   display: inline;
 }
+
 .footer-link:hover {
   color: green;
 }
